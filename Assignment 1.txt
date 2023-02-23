@@ -1,0 +1,36 @@
+<html>
+<h1 style="background:seagreen;" >
+      Educational Conference
+  </h1>
+  <h3 style="color:orange;">Objects</h3>
+  <p>  Conference is being organised to boost your knowdlege about Education.
+    
+  </p>  
+  <h3 style="color:orange;">
+Shedule
+
+  </h3>
+  <u1>
+at 2:00pm  </u1>
+<br>
+<u2>Sunday</u2>
+<br>
+<u3>
+  Februar 26th,2023
+</u3>
+<br>
+<h4>website</h4>
+<br>
+  <a href="https://www.iaceducation.org/"> IAC Education
+  </a>
+
+<br>
+
+<img
+      src="https://images.squarespace-cdn.com/content/v1/5e5d413950d7ca2a0b9daffc/1601063703175-EEHH6JN27Q9UOFNZHKO9/black+with+gradient_logo.png"
+      width="200"
+      height="200"
+    />
+<img>
+
+</html>
